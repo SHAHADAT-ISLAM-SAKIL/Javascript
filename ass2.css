@@ -1,0 +1,76 @@
+
+.align1{
+    color: #252525;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border: none;
+    border-radius: 5px;
+
+}
+.align2{
+    display: inline-flex;
+padding: 10px 20px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 4px;
+background: #FF1F3D;
+}
+.d{
+    color: #FF1F3D;
+
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.te{
+    color: #252525;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.tabs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+
+.second-part{ 
+    display: inline-flex;
+    padding: 8px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+ 
+
+.b{
+    border: none;
+    border-radius: 5px;
+}
+.b:hover {
+    background-color: #FF1F3D;
+    color: #fff;
+  }
+#cardContainer{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+
+
+
+
+}
+.card_img2{
+    justify-content: center;
+    width : 20%;
+    text-align: center;
+} 
